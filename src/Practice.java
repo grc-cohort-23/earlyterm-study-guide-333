@@ -11,7 +11,7 @@ public class Practice {
     }
 
 
-    // TODO: Implement the other methods from the study guide AND tests for each one
+    // TODO: Implement the other methods from the README AND tests for each one
 
     // For each method you are only required to implement it for one of the data
     // structures. But use a different data structure for each method. For example,
